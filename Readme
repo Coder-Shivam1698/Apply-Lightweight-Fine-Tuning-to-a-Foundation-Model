@@ -1,4 +1,4 @@
-# Project: Apply Lightweight Fine-Tuning to a Foundation Model
+**# Project: Apply Lightweight Fine-Tuning to a Foundation Model**
 
 ## 1. Prepare the Foundation Model
 1. **Load a pretrained HF model:** Includes the relevant imports and loads a pretrained Hugging Face model that can be used for sequence classification
